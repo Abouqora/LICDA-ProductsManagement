@@ -1,0 +1,16 @@
+C:\Users\Youness Abouqora\source\repos\Gestion_produits\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Youness Abouqora\source\repos\Gestion_produits\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Youness Abouqora\source\repos\Gestion_produits\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Youness Abouqora\source\repos\Gestion_produits\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Youness Abouqora\source\repos\Gestion_produits\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youness Abouqora\source\repos\Gestion_produits\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Youness Abouqora\source\repos\Gestion_produits\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Youness Abouqora\source\repos\Gestion_produits\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Youness Abouqora\source\repos\Gestion_produits\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Youness Abouqora\source\repos\Gestion_produits\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Youness Abouqora\source\repos\Gestion_produits\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Youness Abouqora\source\repos\Gestion_produits\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\Youness Abouqora\source\repos\Gestion_produits\DataAccess\bin\Debug\net6.0\appsettings.json
+C:\Users\Youness Abouqora\source\repos\Gestion_produits\DataAccess\bin\Debug\net6.0\BusinessObjects.dll
+C:\Users\Youness Abouqora\source\repos\Gestion_produits\DataAccess\bin\Debug\net6.0\BusinessObjects.pdb
+C:\Users\Youness Abouqora\source\repos\Gestion_produits\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
